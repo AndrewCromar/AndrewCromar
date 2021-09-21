@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmcAndrew
+- 👋 Hi, I’m @AmcAndrew!
 - 👀 I’m interested in coading, parkour, and not school!
 - 🌱 I’m currently learning unity development, I'm decently new to it and am exited to start making games.
 
