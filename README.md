@@ -8,6 +8,9 @@
 ## My Website
 [andrewcromar.org](https://andrewcromar.org)
 
+## Help Me
+If you have anything you want to change about any of my projects just let me know.
+
 
 <!---
 AndrewCromar/AndrewCromar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
