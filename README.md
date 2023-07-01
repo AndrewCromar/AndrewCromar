@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrewCromar!
-- 👀 I’m interested in coading, parkour, and not school!
+- 👀 I’m interested in coading, surfing, and not school!
 - 🌱 I’m currently learning unity development.
 
 
