@@ -9,7 +9,7 @@
 [andrewcromar.org](https://andrewcromar.org)
 
 ## Help Me
-If you have anything you want to change about any of my projects just let me know.
+If you have anything you want to change about any of my projects just push for review, if I like it I'll accept it and have it added to the main branch.
 
 
 <!---
