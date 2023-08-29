@@ -1,7 +1,7 @@
 # Andrew Cromar
 
 ## About Me
-- 👋 Hi, I’m @AndrewCromar!
+- 👋 Hi, I’m Andrew Cromar!
 - 👀 I’m interested in programming, surfing, and not school!
 - 🌱 I’m currently learning unity development.
 
