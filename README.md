@@ -8,7 +8,7 @@
 ## My Website
 [andrewcromar.org](https://andrewcromar.org)
 
-##ONYX Developement
+## ONYX Developement
 [ONYX Developement Youtube Channel](https://www.youtube.com/@ONYXDevelopment)
 
 ## Help Me
