@@ -12,7 +12,6 @@
 ONYX Development is a team of friends who make videogames.
 ### Projects
 * Ragdoll Destroyers
-  * [Status] : Close to done.
 * Hell Hotel
 ### Youtube
 [ONYX Development](https://www.youtube.com/@ONYXDevelopment)
