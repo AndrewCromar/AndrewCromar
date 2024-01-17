@@ -10,7 +10,7 @@
 
 ## ONYX Development
 ONYX Development is a team of friends who make videogames.
-### Projects
+### Current Projects
 * Ragdoll Destroyers
   * Beta version finished.
   * Beta download on discord. (Link below.)
