@@ -15,6 +15,8 @@ ONYX Development is a team of friends who make videogames.
 * Hell Hotel
 ### Youtube
 [youtube.com/@ONYXDevelopment](https://www.youtube.com/@ONYXDevelopment)
+### Discord
+[discord.com](discord.gg/2maTr7RQQQ)
 
 ## Help Me
 If you have anything you want to change about any of my projects just create a pull request, if I like it I'll accept it and have it added to the main branch.
