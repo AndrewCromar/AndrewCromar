@@ -24,5 +24,10 @@ ONYX Development is a team of friends who make videogames.
 ### Discord
 [discord.gg](discord.gg/2maTr7RQQQ)
 
+## Badges
+![badge_onyx](badges/badge_onyx.png)
+![badge_developer](badges/badge_developer.png)
+![badge_employee](badges/badge_employee.png)
+
 ## Help Me
 If you have anything you want to change about any of my projects just create a pull request, if I like it I'll accept it and have it added to the main branch.
