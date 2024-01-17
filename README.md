@@ -1,9 +1,9 @@
 # Andrew Cromar
 
 ## About Me
-- 👋 Hi, I’m Andrew Cromar!
-- 👀 I’m interested in programming, surfing, and not school!
-- 🌱 I’m currently learning unity development.
+* Hi, I’m Andrew Cromar!
+* I’m interested in programming, surfing, and not school!
+* I’m currently learning unity development.
 
 ## My Website
 [andrewcromar.org](https://andrewcromar.org)
