@@ -22,7 +22,7 @@ ONYX Development is a team of friends who make videogames.
 ### Youtube
 [youtube.com/@ONYXDevelopment](https://www.youtube.com/@ONYXDevelopment)
 ### Discord
-[discord.gg](discord.gg/2maTr7RQQQ)
+[discord.gg](https://discord.gg/2maTr7RQQQ)
 
 # Public Repositories
 [AndrewCromar/AndrewCromar](https://github.com/AndrewCromar/AndrewCromar)<br>
