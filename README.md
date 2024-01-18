@@ -24,7 +24,7 @@ ONYX Development is a team of friends who make videogames.
 ### Discord
 [discord.gg](discord.gg/2maTr7RQQQ)
 
-# Repositories
+# Public Repositories
 [AndrewCromar/AndrewCromar](https://github.com/AndrewCromar/AndrewCromar)<br>
 [AndrewCromar/SprigGames](https://github.com/AndrewCromar/SprigGames)
 
