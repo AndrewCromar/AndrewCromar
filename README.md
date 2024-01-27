@@ -10,13 +10,17 @@
 
 ## ONYX Development
 ONYX Development is a team of friends who make videogames.
-### Current Projects
+### Projects
+#### Finished
+* Juicy Player Controller
+  * Downloadable here [AndrewCromar/Juicy-Player-Controller](https://github.com/AndrewCromar/Juicy-Player-Controller).
+#### Current
 * Ragdoll Destroyers
   * Beta version finished.
   * Beta download on discord. (Link below.)
 * Hell Hotel
   * 50% finished.
-### Upcoming Projects
+#### Upcoming
 * Modular first person movement unity package.
 * Multiplayer split screen couch game.
 ### Youtube
