@@ -32,6 +32,7 @@ ONYX Development is a team of friends who make videogames.
 
 ## Badges
 ![badge_onyx](badges/badge_onyx.png)
+![badge_juicy](badges/badge_juicy.png)
 ![badge_developer](badges/badge_developer.png)
 ![badge_employee](badges/badge_employee.png)
 
