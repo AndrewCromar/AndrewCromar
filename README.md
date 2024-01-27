@@ -21,7 +21,6 @@ ONYX Development is a team of friends who make videogames.
 * Hell Hotel
   * 50% finished.
 #### Upcoming
-* Modular first person movement unity package.
 * Multiplayer split screen couch game.
 ### Youtube
 [youtube.com/@ONYXDevelopment](https://www.youtube.com/@ONYXDevelopment)
