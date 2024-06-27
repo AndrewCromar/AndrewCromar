@@ -22,6 +22,7 @@ ONYX Development is a team of friends who make videogames.
   * 75% finished.
 #### Upcoming
 * Multiplayer split screen couch game.
+* CupHead like game.
 ### Youtube
 [youtube.com/@ONYXDevelopment](https://www.youtube.com/@ONYXDevelopment)
 ### Discord
