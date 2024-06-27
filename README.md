@@ -19,7 +19,7 @@ ONYX Development is a team of friends who make videogames.
   * Beta version finished.
   * Beta download on discord. (Link below.)
 * Hell Hotel
-  * 50% finished.
+  * 75% finished.
 #### Upcoming
 * Multiplayer split screen couch game.
 ### Youtube
