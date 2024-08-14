@@ -10,6 +10,8 @@ websites:
     "https://onyx.andrewcromar.org/",
     "https://trio.andrewcromar.org/"w
   ]
+company: ONYX Devlopment
+
 education:
   [
     "Self tought programmer."
@@ -18,11 +20,9 @@ experience:
   [
     "Summer Intern - Information Technologies - Knobbe Martens Olson & Bear LLP."
   ]
+
 hobbies: ["Gaming", "Surfing", "Programming/Game Dev"]
 ```
-
-## My Website
-[andrewcromar.org](https://andrewcromar.org)
 
 ## ONYX Development
 ONYX Development is a team of friends who make videogames.
@@ -43,12 +43,6 @@ ONYX Development is a team of friends who make videogames.
 [youtube.com/@ONYXDevelopment](https://www.youtube.com/@ONYXDevelopment)
 ### Discord
 [discord.gg](https://discord.gg/2maTr7RQQQ)
-
-# Public Repositories
-[AndrewCromar/AndrewCromar](https://github.com/AndrewCromar/AndrewCromar)<br>
-[AndrewCromar/Juicy-Player-Controller](https://github.com/AndrewCromar/Juicy-Player-Controller)<br>
-[AndrewCromar/SprigGames](https://github.com/AndrewCromar/SprigGames)<br>
-[AndrewCromar/ONYX-Launcher](https://github.com/AndrewCromar/ONYX-Launcher)
 
 ## Badges
 ![badge_onyx](badges/badge_onyx.png)
