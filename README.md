@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Andrew Cromar&height=100&section=header"/>
-</p>
+![header](<https://capsule-render.vercel.app/api?type=waving&color=auto&text=Andrew Cromar&fontColor=FFFFFF&section=header>)
 
 # Andrew Cromar
 
@@ -46,3 +44,5 @@ ONYX Development is a team of friends who make videogames.
 
 ## Help Me
 If you have anything you want to change about any of my projects just create a pull request, if I like it I'll accept it and have it added to the main branch.
+
+![header](<https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=FFFFFF&section=footer>)
