@@ -1,11 +1,25 @@
 ![header](<https://capsule-render.vercel.app/api?type=waving&color=auto&text=Andrew Cromar&fontColor=FFFFFF&section=header>)
 
-# Andrew Cromar
-
 ## About Me
-* Hi, I’m Andrew Cromar!
-* I’m interested in programming, surfing, and not school!
-* I’m currently learning unity development.
+```yaml
+name: Andrew Cromar
+age: 17
+websites:
+  [
+    "https://andrewcromar.org/",
+    "https://onyx.andrewcromar.org/",
+    "https://trio.andrewcromar.org/"w
+  ]
+education:
+  [
+    "Self tought programmer."
+  ]
+experience:
+  [
+    "Summer Intern - Information Technologies - Knobbe Martens Olson & Bear LLP."
+  ]
+hobbies: ["Gaming", "Surfing", "Programming/Game Dev"]
+```
 
 ## My Website
 [andrewcromar.org](https://andrewcromar.org)
