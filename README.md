@@ -14,7 +14,7 @@ company: ONYX Devlopment
 
 education:
   [
-    "Self tought programmer."
+    "Self taught programmer."
   ]
 experience:
   [
