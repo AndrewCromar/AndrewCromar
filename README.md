@@ -18,10 +18,10 @@ education:
   ]
 experience:
   [
-    "Summer Intern - Information Technologies - Knobbe Martens Olson & Bear LLP."
+    "Summer Intern - Information Technologies - Knobbe Martens Olson & Bear LLP. - Summer of 2024"
   ]
 
-hobbies: ["Gaming", "Surfing", "Programming/Game Dev"]
+hobbies: ["Programming/Game Dev", "Parkour", "Surfing", "Gaming"]
 ```
 
 ## ONYX Development
