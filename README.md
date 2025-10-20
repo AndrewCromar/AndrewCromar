@@ -3,7 +3,7 @@
 ## About Me
 ```yaml
 name: Andrew Cromar
-age: 17
+age: 18
 websites:
   [
     "https://andrewcromar.org/",
@@ -18,7 +18,8 @@ education:
   ]
 experience:
   [
-    "Summer Intern - Information Technologies - Knobbe Martens Olson & Bear LLP. - Summer of 2024"
+    "Paid Summer Intern - Information Technologies - Knobbe Martens Olson & Bear LLP. - Summer of 2024"
+    "Paid Summer Intern - Information Technologies - Knobbe Martens Olson & Bear LLP. - Summer of 2025"
   ]
 
 hobbies: ["Programming/Game Dev", "Parkour", "Surfing", "Gaming"]
